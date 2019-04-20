@@ -10,7 +10,7 @@ public class Test1 {
         map.put("c",3);
         map.put("d",4);
         map.put("a",5);
-
+        map.put("f",6);
         for (int i=0;i<5;i++){
             if(i==4){
                 System.out.println("测试循环！");
