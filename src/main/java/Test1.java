@@ -22,6 +22,8 @@ public class Test1 {
         System.out.println(b.length());
 
         ///这是分支提交的代码
+        //测试拉取git上的项目
+
     }
 
 }
